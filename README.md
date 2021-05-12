@@ -2,6 +2,19 @@
 ## admin@admin.com
 ## psw  12345678
 
+Laravel (stylised as Laгavel) is a free, open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller (MVC) architectural pattern and based on Symfony. Some of the features of Laravel are a modular packaging system with a dedicated dependency manager, different ways for accessing relational databases, utilities that aid in application deployment and maintenance, and its orientation toward syntactic sugar. The source code of Laravel is hosted on GitHub and licensed under the terms of MIT License.
+Vue.js (commonly referred to as Vue; pronounced /vjuː/, like "view") is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members. This Laravel package is a template for writing single page applications with Vue in the frontend and Laravel in the backend. It includes VueRouter, Vuex, VueI18n, Laravel Socialite, Laravel JWT, and an authorization framework that is found in a typical Laravel application but is written as SPA.
+
+Features
+
+    Laravel 7.30.0
+    Vue + VueRouter + Vuex + VueI18n + ESlint
+    Pages with dynamic import and custom layouts
+    Login, register, email verification and password reset
+    Authentication with JWT
+    Socialite integration
+    Bootstrap 4 + Font Awesome 5
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
